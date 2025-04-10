@@ -40,7 +40,7 @@
 ## 📫 Contato
 
 - 💼 [LinkedIn] www.linkedin.com/in/luancr2173
-- 📧 [Email]luan.ramos.al@gmail.com
+- 📧 [Email] luan.ramos.al@gmail.com
 
 ---
 
