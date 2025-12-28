@@ -28,12 +28,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Destaques Técnicos
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luancr2173&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancr2173&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
+- ⚛️ Experiência prática com React Hooks e componentização
+- 🧭 Uso de mapas, coordenadas e dados espaciais em aplicações web
+- 🎨 Atenção especial à UX, acessibilidade e feedback visual
+- 🛠️ Código limpo, legível e fácil de manter
 
 ---
 
