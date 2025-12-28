@@ -8,40 +8,40 @@
 
 ## 🚀 Sobre mim
 
-- 🎯 Especialista em construção de componentes reutilizáveis e limpos com React
-- 📍  Trabalho com geolocalização, mapas e dados espaciais
-- 🧪 Gosto de implementar validações inteligentes, como coordenadas com feedback visual
-- 📚 Estudando Java, javaScript e aprofundando conceitos de Programação Orientada a Objetos (POO)
-- 🤝 Sempre aberto a colaborações e aprendizados com a comunidade dev
+- 🎯 Desenvolvimento de componentes reutilizáveis e bem estruturados com React  
+- 📍 Trabalho com geolocalização, mapas e dados espaciais  
+- 🧪 Implementação de validações inteligentes com feedback visual  
+- 📚 Estudando Java e JavaScript, aprofundando conceitos de Programação Orientada a Objetos (POO)  
+- 🤝 Sempre aberto a colaborações e aprendizado com a comunidade dev  
 
 ---
 
-## 💻 Tecnologias que uso
+## 💻 Tecnologias
 
-<div style="display: flex; flex-direction: row; gap: 10px; aling="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luancr2173&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancr2173&layout=compact&theme=radical"/>
-</div>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luancr2173&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancr2173&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Contato
 
-- 💼 [LinkedIn] www.linkedin.com/in/luancr2173
-- 📧 [Email] luan.ramos.al@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/luancr2173)
+- 📧 Email: **luan.ramos.al@gmail.com**
 
 ---
 
-<p align="center">🚧 Perfil em constante construção 🚧</p>
+<p align="center">🚧 Perfil em constante evolução 🚧</p>
