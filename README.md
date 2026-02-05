@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Luan Carvalho 👋</h1>
 
 <p align="center">
-  Desenvolvedor Front-End focado em criar interfaces intuitivas, performáticas e centradas na experiência do usuário.
+  Desenvolvedor FullStack focado em criar interfaces intuitivas, performáticas e centradas na experiência do usuário.
 </p>
 
 ---
